@@ -1,5 +1,6 @@
 The actual file is too large to be uploaded onto github (the individual art assets are too large).
 This is a open-world rpg game where users can define their own spells. Their spell symbols drawn in game will be recognized through $p point cloud gesture detection and be used to trigger the corresponding spell. 
+[tried and tested on oculus quest 2]
 
 Play the game at: https://drive.google.com/file/d/1JoxEo8YQiH9gDOfU7UJPqLPJ94Jv53bV/view?usp=sharing
 
